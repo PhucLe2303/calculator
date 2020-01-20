@@ -1,7 +1,7 @@
 function insert(num){
-  //  document.form.textview.value = document.form.textview.value + num;
-    document.getElementsByClassName("textview").value = 1;
-    console.log("hello");
+    document.form.textview.value = document.form.textview.value + num;
+   // document.getElementsByClassName("textview").value = 1;
+  //  console.log("hello");
 }
 
 function equal(){
